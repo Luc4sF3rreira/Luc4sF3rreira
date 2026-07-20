@@ -1,23 +1,23 @@
 name: Generate Games
 
 on:
-  schedule: # Roda automaticamente todos os dias à meia-noite
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
     steps:
       - uses: actions/checkout@v3
 
-      - uses: abozanona/pacman-contribution-graph@prod
+      - uses: abozanona/pacman-contribution-graph@main 
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Opções de jogos: pacman, breakout, galaga, bomberman, minesweeper
-          game: bomberman 
-          # Opções de tema: github-light, github-dark, gitlab-light, gitlab-dark
-          theme: github-dark 
+          games: 'bomberman' # Define o jogo como Bomberman
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3
