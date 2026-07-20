@@ -1,21 +1,18 @@
-# Olá, eu sou o Lucas Ferreira Santana! 👋
+![Header](workflows/github-header-banner.png)
 
+---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelAlcantara/MicaelAlcantara/main/assets/developer.gif" width="300px" alt="Developer GIF">
+  <h3><b>✈️ Contador de Visitantes</b></h3>
 </div>
-
 <p align="center">
-  <strong>Estudante de Engenharia de Software na Universidade de Brasília (UnB)</strong><br>
-  🎯 Desenvolvedor Full-Stack | 🎮 Entusiasta de Desenvolvimento de Jogos
+  <img src="https://count.getloli.com/@Luc4sF3rreira?name=Luc4sF3rreira&theme=morden-num&padding=7&offset=0&align=top&scale=0.85&pixelated=1&darkmode=auto" alt="Visitantes" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-* 🎓 Graduando em **Engenharia de Software** na **UnB** (Universidade de Brasília).
-* 🕹️ Direcionando minha especialização prática para **Desenvolvimento Web (Full-Stack)** e **Desenvolvimento de Jogos**.
-* 🛠️ Experiência na construção de aplicações web, estruturação de lógicas de **Backend** e **Frontend**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=000000&multiline=true&width=940&height=60&lines=--%F0%9F%8E%93+Graduando+em+Engenharia+de+Software+na+Universidade+de+Bras%C3%ADlia.;--%F0%9F%95%B9%EF%B8%8F+Direcionando+minha+especializa%C3%A7%C3%A3o+pr%C3%A1tica+para+Desenvolvimento+Web+(Full-Stack)+e+Desenvolvimento+de+Jogos.;--%F0%9F%9B%A0%EF%B8%8F+Experi%C3%AAncia+na+constru%C3%A7%C3%A3o+de+aplica%C3%A7%C3%B5es+web%2C+estrutura%C3%A7%C3%A3o+de+l%C3%B3gicas+de+Backend+e+Frontend.)](https://git.io/typing-svg)
 
 ---
 
@@ -31,18 +28,25 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 ### 🚀 Projetos em Destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>📖 NextBook</h4>
-      <p>Projeto full-stack desenvolvido em dupla. Uma plataforma construída com Python, HTML e banco de dados MySQL para resolver problemas práticos de gerenciamento de leituras e livros.</p>
+      <p>Plataforma web para gerenciamento de leituras e listas de desejos. Desenvolvida em <strong>Python</strong> com o framework Bottle, a aplicação destaca-se pela forte estruturação do Backend. O sistema foi construído sob a arquitetura <strong>MVC</strong>, dividindo responsabilidades entre Controllers, Regras de Negócio (Services) e Manipulação de Dados (Models), incluindo controle de sessões e autenticação de usuários.</p>
+      <br>
+      <a href="https://github.com/Luc4sF3rreira/epf-NextBook">
+        <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Botão Acessar Repositório" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Website (Projeto Integrador)</h4>
-      <p>Desenvolvimento colaborativo (grupo de 10 pessoas) para a construção de um website dinâmico. Atuação direta na estruturação lógica e no <strong>Backend</strong> da aplicação.</p>
+      <h4>🍽️ Nexus Gourmet</h4>
+      <p>Projeto Integrador colaborativo para a construção de um website dinâmico de entregas. Atuação direta na estruturação lógica e no <strong>Backend</strong> da aplicação, implementando o algoritmo de <strong>Dijkstra</strong> para calcular as rotas mais eficientes entre cidades. O projeto utilizou fundamentos sólidos de <strong>HTML, CSS e JavaScript</strong>, aplicando conceitos complexos de grafos em uma solução web interativa.</p>
+      <br>
+      <a href="https://github.com/Luc4sF3rreira/projeto-MDS">
+        <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Botão Acessar Repositório" />
+      </a>
     </td>
   </tr>
 </table>
@@ -51,25 +55,29 @@
 
 ### 📊 Estatísticas do GitHub
 
+<!-- alinhamento dinâmico -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luc4sF3rreira&show_icons=true&theme=dracula" height="170px" alt="Estatísticas do GitHub de Lucas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc4sF3rreira&layout=compact&theme=dracula" height="170px" alt="Linguagens mais usadas" />
+  <a href="https://github.com/Luc4sF3rreira">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luc4sF3rreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Luc4sF3rreira">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luc4sF3rreira&layout=compact&langs_count=7&theme=tokyonight" />
+  </a>
 </div>
-
----
 
 ### 📬 Entre em Contato
 
 <div align="left">
-  <a href="mailto:seu-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/seu-instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="mailto:lucas.santana220206@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://br.linkedin.com/in/lucas-ferreira-santana-620a21377" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/lucao._ferreira?igsh=MTQ5dGJveG5rZXZ5bQ%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
+
+---
+
+<img src="https://raw.githubusercontent.com/Luc4sF3rreira/Luc4sF3rreira/output/snake.svg" alt="Snake animation" />
+
 
 [vscode-badge]: https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5TDEuNjUgMTcuOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4djEwLjg5NnoiLz48L3N2Zz4%3D
