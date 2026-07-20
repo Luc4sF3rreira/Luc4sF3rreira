@@ -28,27 +28,42 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-### 🚀 Projetos em Destaque
+
+## 🚀 Projetos em Destaque
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📖 NextBook</h4>
-      <p>Plataforma web para gerenciamento de leituras e listas de desejos. Desenvolvida em <strong>Python</strong> com o framework Bottle, a aplicação destaca-se pela forte estruturação do Backend. O sistema foi construído sob a arquitetura <strong>MVC</strong>, dividindo responsabilidades entre Controllers, Regras de Negócio (Services) e Manipulação de Dados (Models), incluindo controle de sessões e autenticação de usuários.</p>
-      <br>
-      <a href="https://github.com/Luc4sF3rreira/epf-NextBook">
-        <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Botão Acessar Repositório" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🍽️ Nexus Gourmet</h4>
-      <p>Projeto Integrador colaborativo para a construção de um website dinâmico de entregas. Atuação direta na estruturação lógica e no <strong>Backend</strong> da aplicação, implementando o algoritmo de <strong>Dijkstra</strong> para calcular as rotas mais eficientes entre cidades. O projeto utilizou fundamentos sólidos de <strong>HTML, CSS e JavaScript</strong>, aplicando conceitos complexos de grafos em uma solução web interativa.</p>
-      <br>
-      <a href="https://github.com/Luc4sF3rreira/projeto-MDS">
-        <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Botão Acessar Repositório" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📘 NextBook
+
+Biblioteca digital Full Stack desenvolvida para a disciplina de Programação Orientada a Objetos.
+
+- 🔐 Login e cadastro de usuários
+- 📖 Catálogo de livros organizado por categorias
+- 🔄 Empréstimo, devolução e renovação de títulos
+- ❤️ Lista de desejos personalizada
+- 🛠️ Python · Bottle · HTML/CSS · JSON
+
+[![Acessar Repositório](https://img.shields.io/badge/-ACESSAR%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luc4sF3rreira/epf-NextBook)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ Nexus Gourmet
+
+Sistema de gestão de pedidos para restaurantes, desenvolvido em equipe de 10 pessoas com metodologia ágil.
+
+- 🧾 Abertura de comanda e registro de pedidos pelo garçom
+- 👨‍🍳 Acompanhamento em tempo real pela cozinha
+- 💳 Fechamento de conta automatizado
+- 🧑‍💻 Responsável pela integração completa do back-end e pelos testes
+- 🛠️ React/Vite · Python/Flask · SQLAlchemy · MySQL
+
+[![Acessar Repositório](https://img.shields.io/badge/-ACESSAR%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</td>
+</tr>
 </table>
 
 ---
