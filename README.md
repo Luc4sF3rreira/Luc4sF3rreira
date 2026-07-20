@@ -1,11 +1,11 @@
-![Header](workflows/github-header-banner.png)
+![Header](.github/workflows/github-header-banner.png)
 
 ---
 <div align="center">
   <h3><b>✈️ Contador de Visitantes</b></h3>
 </div>
 <p align="center">
-  <img src="https://count.getloli.com/@Luc4sF3rreira?name=Luc4sF3rreira&theme=morden-num&padding=7&offset=0&align=top&scale=0.85&pixelated=1&darkmode=auto" alt="Visitantes" />
+  <img src="https://count.getloli.com/@Luc4sF3rreira-v2?name=Luc4sF3rreira&theme=morden-num&padding=7&offset=0&align=top&scale=0.85&pixelated=1&darkmode=auto" alt="Visitantes" />
 </p>
 
 ---
