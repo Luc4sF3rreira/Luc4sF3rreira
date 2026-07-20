@@ -1,18 +1,12 @@
 ![Header](.github/workflows/github-header-banner.png)
 
 ---
-<div align="center">
-  <h3><b>✈️ Contador de Visitantes</b></h3>
-</div>
-<p align="center">
-  <img src="https://count.getloli.com/@Luc4sF3rreira-v2?name=Luc4sF3rreira&theme=morden-num&padding=7&offset=0&align=top&scale=0.85&pixelated=1&darkmode=auto" alt="Visitantes" />
-</p>
-
----
 
 ### 👨‍💻 Sobre Mim
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=000000&multiline=true&width=940&height=60&lines=--%F0%9F%8E%93+Graduando+em+Engenharia+de+Software+na+Universidade+de+Bras%C3%ADlia.;--%F0%9F%95%B9%EF%B8%8F+Direcionando+minha+especializa%C3%A7%C3%A3o+pr%C3%A1tica+para+Desenvolvimento+Web+(Full-Stack)+e+Desenvolvimento+de+Jogos.;--%F0%9F%9B%A0%EF%B8%8F+Experi%C3%AAncia+na+constru%C3%A7%C3%A3o+de+aplica%C3%A7%C3%B5es+web%2C+estrutura%C3%A7%C3%A3o+de+l%C3%B3gicas+de+Backend+e+Frontend.)](https://git.io/typing-svg)
+* 🎓 Graduando em **Engenharia de Software** na Universidade de Brasília.
+* 🖥️ Direcionando minha especialização prática para Desenvolvimento **Web (Full-Stack)** e Desenvolvimento de **Jogos**.
+* ⚙️ Experiência na construção de **aplicações web**, estruturação de **lógicas de Backend e Frontend**.
 
 ---
 
@@ -79,6 +73,16 @@ Sistema de gestão de pedidos para restaurantes, desenvolvido em equipe de 10 pe
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luc4sF3rreira&layout=compact&langs_count=7&theme=tokyonight" />
   </a>
 </div>
+
+---
+<div align="center">
+  <h3><b>✈️ Contador de Visitantes</b></h3>
+</div>
+<p align="center">
+  <img src="https://count.getloli.com/@Luc4sF3rreira-v2?name=Luc4sF3rreira&theme=3d-num&padding=7&offset=0&align=top&scale=0.9&pixelated=1&darkmode=auto" alt="Visitantes" />
+</p>
+
+---
 
 ### 📬 Entre em Contato
 
