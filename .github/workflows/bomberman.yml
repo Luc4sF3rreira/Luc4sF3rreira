@@ -1,4 +1,4 @@
-name: Generate Games
+name: Generate Bomberman Game
 
 on:
   schedule:
@@ -12,15 +12,13 @@ jobs:
       contents: write
       
     steps:
-      # Atualizado de @v3 para @v4 (Suporta Node 24)
       - uses: actions/checkout@v4
 
       - uses: abozanona/pacman-contribution-graph@main 
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'bomberman'
+          games: 'bomberman' # Garante que o jogo gerado será o Bomberman
 
-      # Atualizado de @v3 para @v4 (Suporta Node 24)
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
