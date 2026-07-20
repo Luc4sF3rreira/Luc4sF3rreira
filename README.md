@@ -60,7 +60,7 @@ Sistema de gestão de pedidos para restaurantes, desenvolvido em equipe de 10 pe
 - 🧑‍💻 Responsável pela integração completa do back-end e pelos testes
 - 🛠️ React/Vite · Python/Flask · SQLAlchemy · MySQL
 
-[![Acessar Repositório](https://img.shields.io/badge/-ACESSAR%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Acessar Repositório](https://img.shields.io/badge/-ACESSAR%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luc4sF3rreira/projeto-MDS)
 
 </td>
 </tr>
