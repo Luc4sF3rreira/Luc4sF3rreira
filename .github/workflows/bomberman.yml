@@ -1,0 +1,28 @@
+name: Generate Games
+
+on:
+  schedule: # Roda automaticamente todos os dias à meia-noite
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: abozanona/pacman-contribution-graph@prod
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Opções de jogos: pacman, breakout, galaga, bomberman, minesweeper
+          game: bomberman 
+          # Opções de tema: github-light, github-dark, gitlab-light, gitlab-dark
+          theme: github-dark 
+
+      - name: Push SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
