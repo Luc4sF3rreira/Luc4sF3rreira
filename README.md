@@ -1,11 +1,11 @@
 <div align="center">
   <picture>
-    <!-- Versão para Modo Escuro (Ciano) -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=7DCFFF&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B%20Ol%C3%A1%2C%20sou%20o%20Lucas%20Ferreira!;%F0%9F%92%A1%20Transformando%20ideias%20em%20c%C3%B3digo;%E2%9A%99%EF%B8%8F%20Construindo%20Aplica%C3%A7%C3%B5es%20Web%20e%20Jogos;%F0%9F%94%A5%20Sempre%20em%20busca%20de%20novos%20desafios&v=10">
-    <!-- Versão para Modo Claro (Azul Escuro) -->
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=3670A0&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B%20Ol%C3%A1%2C%20sou%20o%20Lucas%20Ferreira!;%F0%9F%92%A1%20Transformando%20ideias%20em%20c%C3%B3digo;%E2%9A%99%EF%B8%8F%20Construindo%20Aplica%C3%A7%C3%B5es%20Web%20e%20Jogos;%F0%9F%94%A5%20Sempre%20em%20busca%20de%20novos%20desafios&v=10">
+    <!-- Versão para Modo Escuro (Branco) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B%20Ol%C3%A1%2C%20sou%20o%20Lucas%20Ferreira!;%F0%9F%92%A1%20Transformando%20ideias%20em%20c%C3%B3digo;%E2%9A%99%EF%B8%8F%20Construindo%20Aplica%C3%A7%C3%B5es%20Web%20e%20Jogos;%F0%9F%94%A5%20Sempre%20em%20busca%20de%20novos%20desafios&v=10">
+    <!-- Versão para Modo Claro (Preto) -->
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=000000&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B%20Ol%C3%A1%2C%20sou%20o%20Lucas%20Ferreira!;%F0%9F%92%A1%20Transformando%20ideias%20em%20c%C3%B3digo;%E2%9A%99%EF%B8%8F%20Construindo%20Aplica%C3%A7%C3%B5es%20Web%20e%20Jogos;%F0%9F%94%A5%20Sempre%20em%20busca%20de%20novos%20desafios&v=10">
     <!-- Fallback padrão -->
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=3670A0&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B%20Ol%C3%A1%2C%20sou%20o%20Lucas%20Ferreira!;%F0%9F%92%A1%20Transformando%20ideias%20em%20c%C3%B3digo;%E2%9A%99%EF%B8%8F%20Construindo%20Aplica%C3%A7%C3%B5es%20Web%20e%20Jogos;%F0%9F%94%A5%20Sempre%20em%20busca%20de%20novos%20desafios&v=10">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=000000&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B%20Ol%C3%A1%2C%20sou%20o%20Lucas%20Ferreira!;%F0%9F%92%A1%20Transformando%20ideias%20em%20c%C3%B3digo;%E2%9A%99%EF%B8%8F%20Construindo%20Aplica%C3%A7%C3%B5es%20Web%20e%20Jogos;%F0%9F%94%A5%20Sempre%20em%20busca%20de%20novos%20desafios&v=10">
   </picture>
 </div>
 
