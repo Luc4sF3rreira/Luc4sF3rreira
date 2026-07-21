@@ -1,6 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Ol%C3%A1,+sou+o+Lucas+Ferreira!+%F0%9F%91%8B;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%A1;Construindo+aplica%C3%A7%C3%B5es+Web+e+Jogos+%E2%9A%99%EF%B8%8F;Sempre+em+busca+de+novos+desafios+%F0%9F%94%A5" alt="Typing SVG" />
+  <picture>
+    <!-- Versão para Modo Escuro (Ciano) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=7DCFFF&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B%20Ol%C3%A1%2C%20sou%20o%20Lucas%20Ferreira!;%F0%9F%92%A1%20Transformando%20ideias%20em%20c%C3%B3digo;%E2%9A%99%EF%B8%8F%20Construindo%20Aplica%C3%A7%C3%B5es%20Web%20e%20Jogos;%F0%9F%94%A5%20Sempre%20em%20busca%20de%20novos%20desafios&v=10">
+    <!-- Versão para Modo Claro (Azul Escuro) -->
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=3670A0&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B%20Ol%C3%A1%2C%20sou%20o%20Lucas%20Ferreira!;%F0%9F%92%A1%20Transformando%20ideias%20em%20c%C3%B3digo;%E2%9A%99%EF%B8%8F%20Construindo%20Aplica%C3%A7%C3%B5es%20Web%20e%20Jogos;%F0%9F%94%A5%20Sempre%20em%20busca%20de%20novos%20desafios&v=10">
+    <!-- Fallback padrão -->
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=3670A0&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B%20Ol%C3%A1%2C%20sou%20o%20Lucas%20Ferreira!;%F0%9F%92%A1%20Transformando%20ideias%20em%20c%C3%B3digo;%E2%9A%99%EF%B8%8F%20Construindo%20Aplica%C3%A7%C3%B5es%20Web%20e%20Jogos;%F0%9F%94%A5%20Sempre%20em%20busca%20de%20novos%20desafios&v=10">
+  </picture>
 </div>
+
+---
 
 ### 👨‍💻 Sobre Mim
 
@@ -77,11 +86,17 @@ Sistema de gestão de pedidos para restaurantes, desenvolvido em equipe de 10 pe
 
 ---
 
-### ✈️ Contador de Visitantes
+### ✈️ Visitantes e Seguidores
 
-<p align="center">
-  <img src="https://count.getloli.com/@Luc4sF3rreira-v2?name=Luc4sF3rreira&theme=3d-num&padding=7&offset=0&align=top&scale=0.9&pixelated=1&darkmode=auto" alt="Visitantes" />
-</p>
+<div align="center">
+  <img src="https://count.getloli.com/@Luc4sF3rreira-v2?name=Luc4sF3rreira&theme=3d-num&padding=6&offset=0&align=top&scale=0.95&pixelated=1&darkmode=auto" alt="Visitantes" />
+  
+  <br>
+  
+  <a href="https://github.com/Luc4sF3rreira?tab=followers">
+    <img src="https://img.shields.io/github/followers/Luc4sF3rreira?style=for-the-badge&logo=github&color=7DCFFF&label=Seguidores" alt="Seguidores" />
+  </a>
+</div>
 
 ---
 
