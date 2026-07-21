@@ -1,6 +1,6 @@
-![Header](.github/workflows/github-header-banner.png)
-
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Ol%C3%A1,+sou+o+Lucas+Ferreira!+%F0%9F%91%8B;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%A1;Construindo+aplica%C3%A7%C3%B5es+Web+e+Jogos+%E2%9A%99%EF%B8%8F;Sempre+em+busca+de+novos+desafios+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
 
 ### 👨‍💻 Sobre Mim
 
