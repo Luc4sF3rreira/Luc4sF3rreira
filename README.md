@@ -74,13 +74,6 @@ Sistema de gestão de pedidos para restaurantes, desenvolvido em equipe de 10 pe
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Luc4sF3rreira">
-    <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Luc4sF3rreira&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</div>
-
-
-<div align="center">
   <a href="https://github.com/Luc4sF3rreira"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luc4sF3rreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" /></a>&nbsp;<a href="https://github.com/Luc4sF3rreira"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luc4sF3rreira&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" /></a>
 </div>
 
