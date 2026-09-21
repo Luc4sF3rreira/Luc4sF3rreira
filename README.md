@@ -75,9 +75,9 @@ Sistema de gestão de pedidos para restaurantes, desenvolvido em equipe de 10 pe
 
 <div align="center">
   <a href="https://github.com/Luc4sF3rreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luc4sF3rreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luc4sF3rreira&show_icons=true&theme=tokyonight&include_all_commits=true&v=1" alt="Estatísticas" />
   </a>&nbsp;<a href="https://github.com/Luc4sF3rreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc4sF3rreira&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc4sF3rreira&layout=compact&langs_count=7&theme=tokyonight&v=1" alt="Linguagens mais usadas" />
   </a>
 </div>
 
