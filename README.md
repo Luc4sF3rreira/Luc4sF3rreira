@@ -74,7 +74,11 @@ Sistema de gestão de pedidos para restaurantes, desenvolvido em equipe de 10 pe
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Luc4sF3rreira"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luc4sF3rreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" /></a>&nbsp;<a href="https://github.com/Luc4sF3rreira"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luc4sF3rreira&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" /></a>
+  <a href="https://github.com/Luc4sF3rreira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luc4sF3rreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" />
+  </a>&nbsp;<a href="https://github.com/Luc4sF3rreira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc4sF3rreira&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
+  </a>
 </div>
 
 ---
@@ -82,7 +86,7 @@ Sistema de gestão de pedidos para restaurantes, desenvolvido em equipe de 10 pe
 ### ✈️ Visitantes e Seguidores
 
 <div align="center">
-  <img src="https://count.getloli.com/@Luc4sF3rreira-v2?name=Luc4sF3rreira&theme=3d-num&padding=6&offset=0&align=top&scale=0.95&pixelated=1&darkmode=auto" alt="Visitantes" />
+  <img src="https://count.getloli.com/@Luc4sF3rreira-v2?name=Luc4sF3rreira&theme=3d-num&padding=6&offset=0&align=top&scale=0.95&pixelated=1&darkmode=0" alt="Visitantes" />
   
   <br>
   
